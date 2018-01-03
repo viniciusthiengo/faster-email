@@ -25,4 +25,10 @@ dependencies {
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.android.support:design:26.1.0'
+
+    /* Para carregamento de imagens remotas */
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
+    /* Para o trabalho com o chips component */
+    implementation 'com.github.pchmn:MaterialChipsInput:1.0.8'
 }
