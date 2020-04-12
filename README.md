@@ -6,7 +6,7 @@ Artigo que discute em detalhes a MaterialChipsInput API. API que permite o uso f
 
 <img src="https://www.thiengo.com.br/img/post/normal/6ka8b8prah57ia1eulbsqkjs4058759f0b73846f3ad2b89279db85e402.gif" width="240" alt="Aplicativo de email utilizando Chips componete">
 
-O conteúdo do artigo também está disponível em [vídeos](https://www.thiengo.com.br/chips-android-quando-e-como-utilizar#title-41) e em [slides](https://www.thiengo.com.br/chips-android-quando-e-como-utilizar#title-40).
+O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/chips-android-quando-e-como-utilizar#title-41) e em [slides](https://www.thiengo.com.br/chips-android-quando-e-como-utilizar#title-40).
 
 ### Primeira parte
 
